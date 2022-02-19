@@ -1,0 +1,3 @@
+<__main__.Book object at 0x103983c40>
+Brave new world
+85.39
