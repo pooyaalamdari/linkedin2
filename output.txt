@@ -1,3 +1,5 @@
-<__main__.Book object at 0x103983c40>
-Brave new world
-85.39
+before discount
+39.99
+amount of discount = 0.25
+after discount
+29.9925
