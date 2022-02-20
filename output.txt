@@ -1,2 +1,3 @@
-Book types:  ('HARDCOVER', 'PAPERBACK', 'EBOOK')
-[<__main__.Book object at 0x10cc079d0>, <__main__.Book object at 0x10cc07970>]
+Alex
+The economist
+99.99 300 80
