@@ -17,11 +17,11 @@ class Book(Publication):
 
 class Magazine(Periodical):
     def __init__(self, title, publisher, price, period):
-        super().__init__(title, publisher, price, period)
+        super().__init__(title, price, period, publisher)
 
 class Newspaper(Periodical):
     def __init__(self, title, publisher, price, period):
-        super().__init__(title, publisher, price, period)
+        super().__init__(title, price, period, publisher)
 
 b1 = Book('Brave new world', 'Alex', 120, 99.99)
 n1 = Newspaper('Economist', 'The economist', 80, 19.86)
