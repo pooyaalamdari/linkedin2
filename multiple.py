@@ -13,8 +13,8 @@ class B:
         self.bar = 'bar'
         self.name = 'Class B'
 
-
-class C(A,B):
+# left to right
+class C(B, A):
     def __init__(self):
         super().__init__()
 
