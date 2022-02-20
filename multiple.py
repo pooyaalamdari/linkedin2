@@ -26,3 +26,6 @@ class C(B, A):
 
 c = C()
 c.showprops()
+
+# which one comes first?
+print(C.__mro__)
