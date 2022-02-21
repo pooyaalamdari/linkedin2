@@ -1,3 +1,2 @@
-war and peace by leo tolstoy, costs 39.95
-------
-criminal and punishment by feodor dostayevsky, costs 44
+b3 = Book()
+TypeError: Book.__init__() missing 3 required positional arguments: 'title', 'author', and 'price'
