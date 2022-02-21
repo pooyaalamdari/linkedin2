@@ -1,3 +1,2 @@
-War and Peace
-------
-Feo Dostoevsky
+Book(title='War and Peace', author='Leo Tolstoy', pages=1200, price=59.39)
+True
