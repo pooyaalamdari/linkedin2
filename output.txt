@@ -1,2 +1,2 @@
-<__main__.Book object at 0x10d373af0>
-<__main__.Book object at 0x10d373a90>
+War and Peace by Leo Tolstoy, costs 99.39
+book example 2 by John Doe, costs 9

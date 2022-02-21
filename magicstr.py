@@ -7,6 +7,9 @@ class Book:
         self.author = author
         self.price = price
 
+    # use the __str__ method to return a string
+    def __str__(self):
+        return f'{self.title} by {self.author}, costs {self.price}'
 
 
 b1 = Book('War and Peace', 'Leo Tolstoy', 99.39)
