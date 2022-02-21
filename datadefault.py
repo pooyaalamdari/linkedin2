@@ -1,4 +1,9 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, field
+import random
+
+
+def price_func():
+    return float(random.randrange(20, 40))
 
 
 @dataclass
@@ -7,7 +12,7 @@ class Book:
     title: str = 'No Title'
     author: str = 'No Author'
     pages: int = 0
-    price: float = 10.0 # default
+    price: float = field(default_factory=price_func)
 
 
 # define obj without argument
