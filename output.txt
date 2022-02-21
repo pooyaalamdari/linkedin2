@@ -1,2 +1,4 @@
 War and Peace by Leo Tolstoy, costs 99.39
 book example 2 by John Doe, costs 9
+War and Peace by Leo Tolstoy, costs 99.39
+title=book example 2, author=John Doe, price=9
