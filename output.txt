@@ -1,2 +1,3 @@
-b3 = Book()
-TypeError: Book.__init__() missing 3 required positional arguments: 'title', 'author', and 'price'
+War and Peace
+------
+Feo Dostoevsky
