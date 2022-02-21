@@ -1,4 +1,3 @@
-True
+War and Peace by Leo Tolstoy costs 35.055
 ------
-True
-False
+35.055
