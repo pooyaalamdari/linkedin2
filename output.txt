@@ -1,1 +1,1 @@
-Book(title='No Title', author='No Author', pages=0, price=0.0)
+Book(title='Criminal and Punishment', author='Feo Dostoevsky', pages=600, price=10.0)
