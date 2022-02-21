@@ -1,2 +1,1 @@
-War and Peace by Leo Tolstoy, 1225 pages.
-Criminal and Punishment by Feo Dostoevsky, 600 pages.
+Book(title='No Title', author='No Author', pages=0, price=0.0)
