@@ -1,4 +1,2 @@
-War and peace
-Leo Tolstoy
-365
-Leo Tolstoy
+<__main__.Book object at 0x10d373af0>
+<__main__.Book object at 0x10d373a90>
